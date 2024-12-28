@@ -6,6 +6,6 @@
 
 Para executar o primeiro arquivo criado, execute em sua estação:
 
-...
+```
 node app.js
-...
+```
